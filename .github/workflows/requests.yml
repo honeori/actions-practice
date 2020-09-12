@@ -6,4 +6,4 @@ jobs:
     dispatch:
         runs-on: ubuntu-latest
         steps:
-            - run: echo "${{ toJson(github.event) }}"
+            - run: echo ${{ toJson(github.event) }}
