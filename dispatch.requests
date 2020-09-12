@@ -1,5 +1,5 @@
 POST https://api.github.com/repos/honeori/actions-practice/dispatches HTTP/1.1
-authorization: token xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+authorization: token 6a77eac5d4b1acc6a34428bdecf7850f45dbe565
 Accept: application/vnd.github.v3+json
 
 {
